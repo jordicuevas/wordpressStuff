@@ -1,0 +1,60 @@
+body,
+html {
+    background-color: white !important;
+}
+
+.jjva_contenedor_imagen {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    min-height: 250px;
+    text-align: center;
+    border: #EEEEEE 1px solid;
+}
+
+.jjva_h3 {
+    color: #333333;
+    font-weight: bold;
+}
+
+.jjva_hr {
+    border: 1pz solid #000 dashed;
+}
+
+.jjva_model {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.jjva_version {
+    font-size: 13px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.jva_precio_lista {
+    font-size: 16px;
+    color: #333333
+}
+
+.jjva_precio_total {
+    font-size: 20px;
+    font-weight: bold;
+    color: #00529A;
+}
+
+.jjva_top_space {
+    padding-bottom: 30px;
+}
+
+.jjva_icon_bar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.jjva_menu {
+    padding-bottom: 20px;
+}
